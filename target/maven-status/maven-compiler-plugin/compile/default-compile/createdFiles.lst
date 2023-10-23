@@ -1,0 +1,7 @@
+com/example/productmanager/CreateProductServlet.class
+com/example/productmanager/ListProductsServlet.class
+com/example/productmanager/UpdateProductServlet.class
+com/example/productmanager/RemoveProductServlet.class
+com/example/productmanager/HelloServlet.class
+com/example/productmanager/data/Product.class
+com/example/productmanager/data/Database.class
